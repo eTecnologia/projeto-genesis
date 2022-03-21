@@ -8,5 +8,5 @@ Objetivo do projeto: Disseminar Boas Práticas de Engenharia de Software para me
 Boas Práticas: Code Review, Refactoring, TDD, cógido Limpo, Design Patterns, Guia de Estilo, SOLID, Padrão de Teste de Software, BDD, DDD, IC (Integração Contínua) , CD (Entrega Contínua), Orientação a Objetos e DevOps
 
 <H2>Conteúdo</H2>
-<a href="https://github.com/eTecnologia/devboaspraticas/wiki"><D>Projeto Gênesis > Boas Práticas de Desenvolvimento de Software</D> </a> 
+<a href="https://github.com/eTecnologia/projeto-genesis/wiki/Projeto-G%C3%AAnesis"><D>Projeto Gênesis > Boas Práticas de Desenvolvimento de Software</D> </a> 
 
