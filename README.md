@@ -9,5 +9,28 @@ Gênesis é um projeto aberto (open source) e colaborativo para disseminar as bo
 Revisão de Código (Code Review), Rafatoração (Refactoring), TDD, Cógido Limpo (Clean Code), Arquitetura Limpa (Clean Architecture), Design Patterns, Guia de Estilo (Style Guide), Design System, SOLID, Padrão de Teste de Software, BDD, DDD, IC (Integração Contínua) , CD (Entrega Contínua), Orientação a Objetos e DevOps
 
 <H2>Conteúdo</H2>
+<!--  
 <a href="https://github.com/eTecnologia/projeto-genesis/wiki/Projeto-G%C3%AAnesis"><D>Projeto Gênesis > Boas Práticas de Engenharia de Software</D> </a> 
+-->
+<BR>
+<H2>Lista de Boas Práticas de Engenharia de Software</H2>
+<a href="https://github.com/eTecnologia/devboaspraticas/wiki/Code-Review-(Revis%C3%A3o-de-C%C3%B3digo)"> <D>Revisão de Código (Code Review)</D> </a> 
+<BR>
+<a href="https://github.com/eTecnologia/devboaspraticas/wiki/Refactoring"> <D>Refatoração (Refactoring)</D> </a> 
+<BR>
+<a href="tdd.html"> <D>TDD - Desenvolvimento Guiado por Testes</D> </a>
+<BR>
+<a href="https://github.com/eTecnologia/projeto-genesis/wiki/C%C3%B3digo-Limpo-(Clean-Code)"> <D>Código Limpo (Clean Code)</D> </a>
+<BR>
+<a href="https://github.com/eTecnologia/projeto-genesis/wiki/Arquitetura-Limpa-(Clean-Architecture)"> <D>Arquitetura Limpa (Clean Architecture)</D> </a>
+<BR>
+<a href="https://github.com/eTecnologia/projeto-genesis/wiki/Design-Patterns">Padrões de Projetos (Design Patterns)</a>
+<BR>
+<a href="https://github.com/eTecnologia/projeto-genesis/wiki/Guia-de-Estilo">Guia de Estilo (Style Guide)</a>
+<BR>
 
+
+<!--
+Contéudo:<BR>
+Revisão de Código (Code Review), Rafatoração (Refactoring), TDD, cógido Limpo (Clean Code), Arquitetura Limpa (Clean Architecture), Design Patterns, Guia de Estilo (Style Guide), Design System, SOLID, Padrão de Teste de Software, BDD, DDD, IC (Integração Contínua) , CD (Entrega Contínua), Orientação a Objetos e DevOps
+-->
