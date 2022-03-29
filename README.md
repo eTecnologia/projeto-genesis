@@ -25,6 +25,8 @@ Revisão de Código (Code Review), Rafatoração (Refactoring), TDD, Cógido Lim
 <BR>
 <a href="https://github.com/eTecnologia/projeto-genesis/wiki/Guia-de-Estilo">Guia de Estilo (Style Guide)</a>
 <BR>
+<a href="https://github.com/eTecnologia/projeto-genesis/wiki/solid">SOLID</a>
+<BR>
 
 
 <!--
