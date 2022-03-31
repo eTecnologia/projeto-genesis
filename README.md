@@ -15,7 +15,7 @@ Revisão de Código (Code Review), Rafatoração (Refactoring), TDD, Cógido Lim
 <BR>
 <a href="https://github.com/eTecnologia/devboaspraticas/wiki/Refactoring"> <D>Refatoração (Refactoring)</D> </a> 
 <BR>
-<a href="https://github.com/eTecnologia/projeto-genesis/wiki/TDD.html"> <D>TDD - Desenvolvimento Guiado por Testes</D> </a>
+<a href="https://github.com/eTecnologia/projeto-genesis/wiki/TDD"> <D>TDD - Desenvolvimento Guiado por Testes</D> </a>
 <BR>
 <a href="https://github.com/eTecnologia/projeto-genesis/wiki/C%C3%B3digo-Limpo-(Clean-Code)"> <D>Código Limpo (Clean Code)</D> </a>
 <BR>
