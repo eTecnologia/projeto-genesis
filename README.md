@@ -11,11 +11,11 @@ Revisão de Código (Code Review), Rafatoração (Refactoring), TDD, Cógido Lim
 <a href="https://github.com/eTecnologia/projeto-genesis/wiki/Projeto-G%C3%AAnesis"><D>Projeto Gênesis > Boas Práticas de Engenharia de Software</D> </a> 
 -->
 <H2>Lista de Boas Práticas de Engenharia de Software</H2>
-<a href="https://github.com/eTecnologia/devboaspraticas/wiki/Code-Review-(Revis%C3%A3o-de-C%C3%B3digo)"> <D>Revisão de Código (Code Review)</D> </a> 
+<a href="https://github.com/eTecnologia/devboaspraticas/wiki/Code-Review-(Revis%C3%A3o-de-C%C3%B3digo)"><D>Revisão de Código (Code Review)</D> </a> 
 <BR>
 <a href="https://github.com/eTecnologia/devboaspraticas/wiki/Refactoring"> <D>Refatoração (Refactoring)</D> </a> 
 <BR>
-<a href="tdd.html"> <D>TDD - Desenvolvimento Guiado por Testes</D> </a>
+<a href="https://github.com/eTecnologia/projeto-genesis/wiki/TDD.html"> <D>TDD - Desenvolvimento Guiado por Testes</D> </a>
 <BR>
 <a href="https://github.com/eTecnologia/projeto-genesis/wiki/C%C3%B3digo-Limpo-(Clean-Code)"> <D>Código Limpo (Clean Code)</D> </a>
 <BR>
