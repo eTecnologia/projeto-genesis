@@ -28,6 +28,9 @@ Revisão de Código (Code Review), Rafatoração (Refactoring), TDD, Cógido Lim
 <a href="https://github.com/eTecnologia/projeto-genesis/wiki/solid">SOLID</a>
 <BR>
 <a href="https://github.com/eTecnologia/projeto-genesis/wiki/DDD (Domain-Driven-Design)">DDD (Domain-Driven Design)</a>
+<BR>
+<a href="https://github.com/eTecnologia/projeto-genesis/wiki/teste">Boas práticas para Teste de Software</a>  
+  
 <!--
 Contéudo:<BR>
 Revisão de Código (Code Review), Rafatoração (Refactoring), TDD, cógido Limpo (Clean Code), Arquitetura Limpa (Clean Architecture), Design Patterns, Guia de Estilo (Style Guide), Design System, SOLID, Padrão de Teste de Software, BDD, DDD, IC (Integração Contínua) , CD (Entrega Contínua), Orientação a Objetos e DevOps
