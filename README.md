@@ -29,7 +29,7 @@ Revisão de Código (Code Review), Rafatoração (Refactoring), TDD, Cógido Lim
 <BR>
 <a href="https://github.com/eTecnologia/projeto-genesis/wiki/DDD (Domain-Driven-Design)">DDD (Domain-Driven Design)</a>
 <BR>
-<a href="https://github.com/eTecnologia/projeto-genesis/wiki/teste">Boas práticas para Teste de Software</a>  
+<a hrefhttps://github.com/eTecnologia/projeto-genesis/wiki/Documenta%C3%A7%C3%A3o-para-Teste-de-Software">Documentação para Teste de Software</a>  
   
 <!--
 Contéudo:<BR>
