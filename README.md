@@ -31,7 +31,7 @@ Revisão de Código (Code Review), Rafatoração (Refactoring), TDD, Cógido Lim
 <BR>
 <a href="https://github.com/eTecnologia/projeto-genesis/wiki/Documenta%C3%A7%C3%A3o-para-Teste-de-Software">Documentação para Teste de Software</a>  
 <BR>
-<a href="https://github.com/eTecnologia/projeto-genesis/wiki/BDD">BDD (Desenvolvimento Orientado a Comportamento)</a>  
+<a href="https://github.com/eTecnologia/projeto-genesis/wiki/BDD-(Desenvolvimento-Orientado-a-Comportamento)">BDD (Desenvolvimento Orientado a Comportamento)</a>  
 
 <!--
 Contéudo:<BR>
