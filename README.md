@@ -6,7 +6,7 @@ Gênesis é um projeto aberto (open source) e colaborativo para disseminar as bo
 
 <strong>Boas Práticas:</strong> 
 <BR>
-Revisão de Código (Code Review), Rafatoração (Refactoring), TDD, Cógido Limpo (Clean Code), Arquitetura Limpa (Clean Architecture), Design Patterns, Guia de Estilo (Style Guide), Design System, SOLID, Padrão de Teste de Software, BDD, DDD, IC (Integração Contínua) , CD (Entrega Contínua), Orientação a Objetos e DevOps
+Revisão de Código (Code Review), Rafatoração (Refactoring), TDD, Cógido Limpo (Clean Code), Arquitetura Limpa (Clean Architecture), Design Patterns, Guia de Estilo (Style Guide), Design System, SOLID, Documentação para Teste de Software, BDD, DDD, IC (Integração Contínua) , CD (Entrega Contínua), Orientação a Objetos e DevOps
 <!--  
 <a href="https://github.com/eTecnologia/projeto-genesis/wiki/Projeto-G%C3%AAnesis"><D>Projeto Gênesis > Boas Práticas de Engenharia de Software</D> </a> 
 -->
@@ -30,8 +30,10 @@ Revisão de Código (Code Review), Rafatoração (Refactoring), TDD, Cógido Lim
 <a href="https://github.com/eTecnologia/projeto-genesis/wiki/DDD (Domain-Driven-Design)">DDD (Domain-Driven Design)</a>
 <BR>
 <a href="https://github.com/eTecnologia/projeto-genesis/wiki/Documenta%C3%A7%C3%A3o-para-Teste-de-Software">Documentação para Teste de Software</a>  
-  
+<BR>
+<a href="https://github.com/eTecnologia/projeto-genesis/wiki/BDD">BDD (Desenvolvimento Orientado a Comportamento)</a>  
+
 <!--
 Contéudo:<BR>
-Revisão de Código (Code Review), Rafatoração (Refactoring), TDD, cógido Limpo (Clean Code), Arquitetura Limpa (Clean Architecture), Design Patterns, Guia de Estilo (Style Guide), Design System, SOLID, Padrão de Teste de Software, BDD, DDD, IC (Integração Contínua) , CD (Entrega Contínua), Orientação a Objetos e DevOps
+Revisão de Código (Code Review), Rafatoração (Refactoring), TDD, cógido Limpo (Clean Code), Arquitetura Limpa (Clean Architecture), Design Patterns, Guia de Estilo (Style Guide), Design System, SOLID, Documentação para Teste de Software, BDD, DDD, IC (Integração Contínua) , CD (Entrega Contínua), Orientação a Objetos e DevOps
 -->
