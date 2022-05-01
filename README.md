@@ -11,6 +11,9 @@ Revisão de Código (Code Review), Rafatoração (Refactoring), TDD, Cógido Lim
 <a href="https://github.com/eTecnologia/projeto-genesis/wiki/Projeto-G%C3%AAnesis"><D>Projeto Gênesis > Boas Práticas de Engenharia de Software</D> </a> 
 -->
 <H2>Lista de Boas Práticas de Engenharia de Software</H2>
+<BR>  
+<a href="https://github.com/eTecnologia/devboaspraticas/wiki/algoritmos"><D>Algoritmos</D></a> 
+<BR>  
 <a href="https://github.com/eTecnologia/devboaspraticas/wiki/Code-Review-(Revis%C3%A3o-de-C%C3%B3digo)"><D>Revisão de Código (Code Review)</D> </a> 
 <BR>
 <a href="https://github.com/eTecnologia/devboaspraticas/wiki/Refactoring"> <D>Refatoração (Refactoring)</D> </a> 
