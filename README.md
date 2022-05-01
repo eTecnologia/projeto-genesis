@@ -32,7 +32,10 @@ Revisão de Código (Code Review), Rafatoração (Refactoring), TDD, Cógido Lim
 <a href="https://github.com/eTecnologia/projeto-genesis/wiki/Documenta%C3%A7%C3%A3o-para-Teste-de-Software">Documentação para Teste de Software</a>  
 <BR>
 <a href="https://github.com/eTecnologia/projeto-genesis/wiki/BDD-(Desenvolvimento-Orientado-a-Comportamento)">BDD (Desenvolvimento Orientado a Comportamento)</a>  
-
+<BR>
+<a hef="...">IC (Integração Contínua)</a>
+  
+  
 <!--
 Contéudo:<BR>
 Revisão de Código (Code Review), Rafatoração (Refactoring), TDD, cógido Limpo (Clean Code), Arquitetura Limpa (Clean Architecture), Design Patterns, Guia de Estilo (Style Guide), Design System, SOLID, Documentação para Teste de Software, BDD, DDD, IC (Integração Contínua) , CD (Entrega Contínua), Orientação a Objetos e DevOps
