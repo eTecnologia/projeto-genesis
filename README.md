@@ -14,7 +14,7 @@ Revisão de Código (Code Review), Rafatoração (Refactoring), TDD, Cógido Lim
 <BR>  
 <a href="https://github.com/eTecnologia/projeto-genesis/wiki/algoritmos"><D>Algoritmos</D></a> 
 <BR>
-<a href="https://github.com/eTecnologia/projeto-genesis/wiki/guiadeestilo"><D>Guia de Estilo de Programação</D></a>  
+<a href="https://github.com/eTecnologia/projeto-genesis/wiki/guiadeestilo"><D>Guia de Estilo de Programação (Style Guide)</D></a>  
 <BR>  
 <a href="https://github.com/eTecnologia/devboaspraticas/wiki/Code-Review-(Revis%C3%A3o-de-C%C3%B3digo)"><D>Revisão de Código (Code Review)</D> </a> 
 <BR>
