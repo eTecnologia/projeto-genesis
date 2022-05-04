@@ -14,8 +14,6 @@ Revisão de Código (Code Review), Rafatoração (Refactoring), TDD, Cógido Lim
 <BR>  
 <a href="https://github.com/eTecnologia/projeto-genesis/wiki/algoritmos"><D>Algoritmos</D></a> 
 <BR>
-<a href="https://github.com/eTecnologia/projeto-genesis/wiki/guiadeestilo"><D>Guia de Estilo de Programação (Style Guide)</D></a>  
-<BR>  
 <a href="https://github.com/eTecnologia/devboaspraticas/wiki/Code-Review-(Revis%C3%A3o-de-C%C3%B3digo)"><D>Revisão de Código (Code Review)</D> </a> 
 <BR>
 <a href="https://github.com/eTecnologia/devboaspraticas/wiki/Refactoring"> <D>Refatoração (Refactoring)</D> </a> 
@@ -28,7 +26,7 @@ Revisão de Código (Code Review), Rafatoração (Refactoring), TDD, Cógido Lim
 <BR>
 <a href="https://github.com/eTecnologia/projeto-genesis/wiki/Design-Patterns">Padrões de Projetos (Design Patterns)</a>
 <BR>
-<a href="https://github.com/eTecnologia/projeto-genesis/wiki/Guia-de-Estilo">Guia de Estilo (Style Guide)</a>
+<a href="https://github.com/eTecnologia/projeto-genesis/wiki/Guia-de-Estilo">Guia de Estilo de Programação (Style Guide)</a>
 <BR>
 <a href="https://github.com/eTecnologia/projeto-genesis/wiki/solid">SOLID</a>
 <BR>
