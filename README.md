@@ -36,7 +36,9 @@ Revisão de Código (Code Review), Rafatoração (Refactoring), TDD, Cógido Lim
 <BR>
 <a href="https://github.com/eTecnologia/projeto-genesis/wiki/BDD-(Desenvolvimento-Orientado-a-Comportamento)">BDD - Desenvolvimento Orientado a Comportamento</a>  
 <BR>  
-<a href="https://github.com/eTecnologia/projeto-genesis/wiki/Especifica%C3%A7%C3%A3o-por-exemplo-(SBE)">SBE (Specification by Example) Especififação por Exemplo</a>  
+<a href="https://github.com/eTecnologia/projeto-genesis/wiki/Especifica%C3%A7%C3%A3o-por-exemplo-(SBE)">SBE (Specification by Example) Especififação por Exemplo</a>
+<BR>  
+<a href="https://github.com/eTecnologia/projeto-genesis/wiki/Caso-de-Uso-2.0>Caso de Uso 2.0</a>
 <BR>
 <a href="https://github.com/eTecnologia/projeto-genesis/wiki/IC-Integra%C3%A7%C3%A3o-Cont%C3%ADnua">IC - Integração Contínua</a>
 <BR>  
