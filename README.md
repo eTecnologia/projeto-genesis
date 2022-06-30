@@ -7,12 +7,11 @@ Gênesis é um projeto aberto (open source) e colaborativo para disseminar as bo
 <strong>Boas Práticas:</strong> 
 <BR>
 Revisão de Código (Code Review), Rafatoração (Refactoring), TDD, Cógido Limpo (Clean Code), Arquitetura Limpa (Clean Architecture), Design Patterns, Guia de Estilo (Style Guide), Design System, SOLID, Documentação para Teste de Software, BDD, DDD, IC (Integração Contínua) , CD (Entrega Contínua), Orientação a Objetos e DevOps
-<!--  
-
-<a href="https://github.com/eTecnologia/projeto-genesis/wiki/Jornada-de-Desenvolvedor-de-Software"><D>Carreira: Jornada de Desenvolvedor de Software</D> </a>
-<BR>
+<!--
 <a href="https://github.com/eTecnologia/projeto-genesis/wiki/Projeto-G%C3%AAnesis"><D>Projeto Gênesis > Boas Práticas de Engenharia de Software</D> </a> 
 -->
+<a href="https://github.com/eTecnologia/projeto-genesis/wiki/Jornada-de-Desenvolvedor-de-Software"><D>Carreira: Jornada de Desenvolvedor de Software</D> </a>
+<BR>
 <H2>Lista de Boas Práticas de Engenharia de Software</H2>
 <BR> 
 <a href="https://github.com/eTecnologia/projeto-genesis/wiki/Algoritmos-e-L%C3%B3gica-de-Programa%C3%A7%C3%A3o"><D>Algoritmos e Lógica de Programação</D></a> 
