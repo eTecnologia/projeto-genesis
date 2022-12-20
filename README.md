@@ -45,6 +45,8 @@ Revisão de Código (Code Review), Rafatoração (Refactoring), TDD, Cógido Lim
 <a href="https://github.com/eTecnologia/projeto-genesis/wiki/IC-Integra%C3%A7%C3%A3o-Cont%C3%ADnua">IC - Integração Contínua</a>
 <BR>  
 <a href="https://github.com/eTecnologia/projeto-genesis/wiki/CD-Entrega-Cont%C3%ADnua">CD - Entrega Contínua</a>
+<BR>
+<a href="https://wiki.sei.cmu.edu/confluence/display/seccode/SEI+CERT+Coding+Standards)">Padrão para Codificação Segura</a>  
 <!--
 Contéudo:<BR>
 Revisão de Código (Code Review), Rafatoração (Refactoring), TDD, cógido Limpo (Clean Code), Arquitetura Limpa (Clean Architecture), Design Patterns, Guia de Estilo (Style Guide), Design System, SOLID, Documentação para Teste de Software, BDD, DDD, IC (Integração Contínua) , CD (Entrega Contínua), Orientação a Objetos e DevOps
