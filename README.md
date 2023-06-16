@@ -52,10 +52,10 @@ Revisão de Código (Code Review), Rafatoração (Refactoring), TDD, Cógido Lim
 <BR>
 <a href="https://wiki.sei.cmu.edu/confluence/display/seccode/SEI+CERT+Coding+Standards" target="_blank">Padrão para Codificação Segura</a>  
 <BR>
-<a href="https://github.com/eTecnologia/projeto-genesis/wiki/artafatos" target="_blank"><strong>Artefatos de Software</strong></a>  
+<a href="https://github.com/eTecnologia/projeto-genesis/wiki/artafatos" target="_blank">Artefatos de Software</a>  
 <BR>
-<a href="https://github.com/eTecnologia/projeto-genesis/wiki/dor" target="_blank"><strong>DoR (Definition of Ready)</strong></a>  
+<a href="https://github.com/eTecnologia/projeto-genesis/wiki/dor" target="_blank">DoR (Definition of Ready)</a>  
 <!--
 Contéudo:<BR>
-Revisão de Código (Code Review), Rafatoração (Refactoring), TDD, cógido Limpo (Clean Code), Arquitetura Limpa (Clean Architecture), Design Patterns, Guia de Estilo (Style Guide), Design System, SOLID, Documentação para Teste de Software, BDD, SBE, Spike, DDD, IC (Integração Contínua) , CD (Entrega Contínua), Orientação a Objetos e DevOps
+Revisão de Código (Code Review), Rafatoração (Refactoring), TDD, cógido Limpo (Clean Code), Arquitetura Limpa (Clean Architecture), Design Patterns, Guia de Estilo (Style Guide), Design System, SOLID, Documentação para Teste de Software, BDD, SBE, Spike, DDD, IC (Integração Contínua) , CD (Entrega Contínua), Orientação a Objetos, DoR e DevOps
 -->
