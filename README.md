@@ -53,7 +53,7 @@ Revisão de Código (Code Review), Rafatoração (Refactoring), TDD, Cógido Lim
 <a href="https://wiki.sei.cmu.edu/confluence/display/seccode/SEI+CERT+Coding+Standards" target="_blank">Padrão para Codificação Segura</a>  
 <BR>
 <a href="https://github.com/eTecnologia/projeto-genesis/wiki/artafatos" target="_blank"><strong>Artefatos de Software</strong></a>  
-<B>
+<BR>
 <a href="https://github.com/eTecnologia/projeto-genesis/wiki/dor" target="_blank"><strong>DoR (Definition of Ready)</strong></a>  
 <!--
 Contéudo:<BR>
