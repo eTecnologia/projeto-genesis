@@ -54,8 +54,7 @@ Revisão de Código (Code Review), Rafatoração (Refactoring), TDD, Cógido Lim
 <BR>
 <a href="https://github.com/eTecnologia/projeto-genesis/wiki/artafatos" target="_blank"><strong>Artefatos de Software</strong></a>  
 <B>
-
-
+<a href="https://github.com/eTecnologia/projeto-genesis/wiki/dor" target="_blank"><strong>DoR (Definition of Ready)</strong></a>  
 <!--
 Contéudo:<BR>
 Revisão de Código (Code Review), Rafatoração (Refactoring), TDD, cógido Limpo (Clean Code), Arquitetura Limpa (Clean Architecture), Design Patterns, Guia de Estilo (Style Guide), Design System, SOLID, Documentação para Teste de Software, BDD, SBE, Spike, DDD, IC (Integração Contínua) , CD (Entrega Contínua), Orientação a Objetos e DevOps
